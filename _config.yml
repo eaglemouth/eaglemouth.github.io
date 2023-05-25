@@ -113,6 +113,12 @@ theme: butterfly
 deploy:
   type: ''
 
+search:
+  path: search.xml
+  field: all
+  content: true
+  # template: ./search.xml
+
 # abbrlink config
 abbrlink:
   alg: crc32      # support crc16(default) and crc32
