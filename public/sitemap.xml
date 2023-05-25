@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://eaglemouth.eu.org/posts/4a17b156.html</loc>
+    <loc>https://eaglemouth.eu.org/posts/d87f7e0c.html</loc>
     
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-05-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://eaglemouth.eu.org/posts/0.html</loc>
     
-    <lastmod>2023-03-27</lastmod>
+    <lastmod>2023-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eaglemouth.eu.org/posts/4a17b156.html</loc>
+    
+    <lastmod>2023-04-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -46,34 +55,32 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://eaglemouth.eu.org/posts/d87f7e0c.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://eaglemouth.eu.org/</loc>
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-05-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://eaglemouth.eu.org/tags/sunspot/</loc>
+    <lastmod>2023-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://eaglemouth.eu.org/tags/node-js/</loc>
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://eaglemouth.eu.org/tags/hexo/</loc>
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -82,7 +89,7 @@
   
   <url>
     <loc>https://eaglemouth.eu.org/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
