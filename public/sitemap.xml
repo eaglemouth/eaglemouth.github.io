@@ -65,13 +65,6 @@
 
   
   <url>
-    <loc>https://eaglemouth.eu.org/tags/sunspot/</loc>
-    <lastmod>2023-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://eaglemouth.eu.org/tags/node-js/</loc>
     <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,6 +73,13 @@
   
   <url>
     <loc>https://eaglemouth.eu.org/tags/hexo/</loc>
+    <lastmod>2023-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eaglemouth.eu.org/tags/sunspot/</loc>
     <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
