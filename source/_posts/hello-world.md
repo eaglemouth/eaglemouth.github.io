@@ -1,6 +1,8 @@
 ---
 title: Hello World
 categories: 学习笔记
+date: 2023-03-21 16:23:00
+updated: 2023-03-21
 tags: [node.js, hexo]
 abbrlink: 4a17b156
 ---
